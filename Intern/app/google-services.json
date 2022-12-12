@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171314330522",
+    "project_id": "book-market-4db6d",
+    "storage_bucket": "book-market-4db6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171314330522:android:16e94418c98ba1fa5e1823",
+        "android_client_info": {
+          "package_name": "com.glucozo.book_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171314330522-ncb8aj0769vfgkdqhsjrmkeallnasl87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glucozo.book_market",
+            "certificate_hash": "7404961110d75a44facc2d6c14384aea53b29a1f"
+          }
+        },
+        {
+          "client_id": "171314330522-pu7sh40ecfoeivsir2i7sugitfh8ni16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3i7v8QbK9jpQqn3_eMwAmCOfWXIazMKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171314330522-pu7sh40ecfoeivsir2i7sugitfh8ni16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

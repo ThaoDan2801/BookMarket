@@ -1,0 +1,40 @@
+<resources>
+    <!--    <string name="app_name">Appdemo</string>-->
+    <string name="app_name">Book Market</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+
+    <string name="tv_title">Sách là nguồn tri thức vô tận</string>
+    <string name="tv_titleLG">Sách là phép màu di động duy nhất!!!</string>
+    <string name="edt_email">Nhập email</string>
+    <string name="edt_pass">Nhập mật khẩu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="S1"> Quảng gánh lo đi</string>
+    <string name="S2"> Nhà giả kim </string>
+    <string name="S3"> Đắc nhân tâm</string>
+    <string name="S4"> Đừng lo lắng</string>
+    <string name="S5"> Ung thư không phải là bệnh</string>
+    <string name="S6"> Truyện cổ tích</string>
+    <string name="S7"> Mẹ kể bé nghe</string>
+    <string name="S8"> Quảng gánh lo đi</string>
+    <string name="S9"> Khuyến học</string>
+    <string name="S10"> Nam Cao</string>
+
+
+    <string name="t1"> Nam Cao</string>
+    <string name="t2"> Lê Hiến</string>
+    <string name="t4"> NXB Kim Đồng</string>
+    <string name="t3"> Thạch Lam</string>
+    <string name="t5"> Xuân Hương</string>
+
+    <string name="m1"> 2100</string>
+    <string name="m2"> 1800</string>
+    <string name="m4"> 7568</string>
+    <string name="m5"> 9899</string>
+    <string name="m3"> 15000</string>
+    <string name="let_go">Let go</string>
+
+
+</resources>
